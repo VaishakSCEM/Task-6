@@ -32,4 +32,4 @@ This project implements a **2-bit comparator** using the **VSDSquadron Mini Boar
 | 0  | 0  | 0  | 0  | 0    | 1    | 0    |
 | 0  | 0  | 0  | 1  | 0    | 0    | 1    |
 | 0  | 0  | 1  | 0  | 0    | 0    | 1    |
-| 0  |
+| 0  |.
